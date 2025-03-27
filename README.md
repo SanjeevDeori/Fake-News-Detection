@@ -33,13 +33,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌍 Deployment
-- The app can be deployed on **Streamlit Community Cloud** by pushing the repository to GitHub and linking it to Streamlit.
-
 ## 🛠️ Usage
 1. Enter a news article text in the input box.
 2. Click the **Detect** button.
 3. The model will classify the article as **Real** or **Fake**.
+
+## 🎮 Live Demo
+Check out the live demo of the app here: [Fake News Detector](https://fake-news-detection3.streamlit.app/)
+- Deployed at **Streamlit Community Cloud**
 
 ## 📌 Dependencies
 ```bash
@@ -57,3 +58,4 @@ This project is open-source under the MIT License.
 ---
 
 💡 *Feel free to contribute and improve this project!* 🚀
+
