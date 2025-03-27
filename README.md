@@ -1,5 +1,7 @@
 # Fake News Detection App
+📝 Overview
 
+Fake news has become a widespread issue in today's digital world. This project aims to detect fake news using machine learning techniques. The model classifies news articles as Fake or Real based on text analysis. The web interface, built using Streamlit, allows users to input news text and get predictions instantly.
 ## 📌 Features
 - 📰 **Pandas** for data processing
 - 🤖 **Scikit-learn** for machine learning (Logistic Regression)
